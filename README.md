@@ -45,7 +45,19 @@ The requirments of the assignment is as a follows
  # Testability 
  All Rest Services are tested using Integration test script using RestAssured Testing framework . In current test cases exception paths are not covered
  
- # Build and Execution 
+ # Compile , test and Package 
+ 
+ To compile and integration test the application run following commands from project's root directory 
+ 
+                             mvn clean compile test
+                             
+  To package issue following commands
+  
+                             mvn package
+                             
+   This will create a jar file in target directory of each projects.
+   
+ * For compilation , machine need to have maven setup .                            
  
  # Deployability and Pre-requisite 
  
