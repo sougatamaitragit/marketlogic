@@ -1,4 +1,4 @@
-# Assigmnets - Design Decisions 
+# Design Decisions and Short Design Notes
 
 # Requirement
 
