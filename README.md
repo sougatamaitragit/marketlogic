@@ -12,7 +12,7 @@ The requirments of the assignment is as a follows
  # Design Principle 
  
  The project is developed based on the microservice principles and basic domain model is below . 
- 
+ ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/blob/master/images/PortsAndAdapter-QuestionService.jpg)
  
  # Domain Driven Principle and Microservice Identification 
  
@@ -20,7 +20,8 @@ The requirments of the assignment is as a follows
             a. Question Domain 
             b. Survey Domain 
             
-  Figure below describes detail domain design .
+  Figure below describes detail domain design and microservice bounded context.
+  ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/blob/master/images/PortsAndAdapter-QuestionService.jpg)
  
  
  # Application Architecture  and Technology Selection
