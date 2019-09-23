@@ -21,7 +21,7 @@ The requirments of the assignment is as a follows
             b. Survey Domain 
             
   Figure below describes detail domain design and microservice bounded context.
-  ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/blob/master/images/PortsAndAdapter-QuestionService.jpg)
+  ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/blob/master/images/BoundedContext.jpg.jpg)
  
  
  # Application Architecture  and Technology Selection
