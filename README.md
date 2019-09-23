@@ -9,10 +9,10 @@ The requirments of the assignment is as a follows
           c. User respond to the survey by sending his/her preferred answers.
  Based on the above condition design REST inetraced to create /update / delete / get / get all questions and answers. User should able to responde to survey and calculate number of response to a question of a survey and distribution of its answers.
  
- # Design Principle 
+ # Key Design Principle 
  
- The project is developed based on the microservice principles and basic domain model is below . 
- ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/blob/master/images/PortsAndAdapter-QuestionService.jpg)
+ The project is developed based on the microservice principles .  As per given requirement basic information model is as follows.
+ ![Information Model](https://github.com/sougatamaitragit/marketlogic/blob/master/images/InformationModel.jpg)
  
  # Domain Driven Principle and Microservice Identification 
  
