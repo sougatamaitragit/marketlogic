@@ -42,6 +42,15 @@ The requirments of the assignment is as a follows
  
  # Exposed REST API's
  
+ Following table describes APIs exposed for Question service and its purpose.
+ 
+ ![Question Service](https://github.com/sougatamaitragit/marketlogic/blob/master/images/QuestionAnswers.PNG)
+ 
+ Following table describes APIs exposed for Answer Service and its purpose.
+ 
+ ![Survey Service](https://github.com/sougatamaitragit/marketlogic/blob/master/images/Survey.PNG)
+ 
+ 
  # Testability 
  All Rest Services are tested using Integration test script using RestAssured Testing framework . In current test cases exception paths are not covered
  
