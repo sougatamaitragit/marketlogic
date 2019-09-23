@@ -32,7 +32,7 @@ The requirments of the assignment is as a follows
  
  Figure below describes Hexagonal Architecture for Question Microservice.
  
- ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/images/PortsAndAdapter-QuestionService.jpg	
+ ![Hexagonal Architecture](https://github.com/sougatamaitragit/marketlogic/images/PortsAndAdapter-QuestionService.jpg)
 
  
  
